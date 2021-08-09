@@ -21,10 +21,10 @@ body::before{
     right: 0;
     position: absolute;
     height: 100vh;
-    /* background: url(splash.jpg) no-repeat;
+    background: url(splash.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    mix-blend-mode: screen; */
+    mix-blend-mode: screen;
 
 }
 h1{
